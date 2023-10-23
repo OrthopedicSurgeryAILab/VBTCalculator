@@ -30,7 +30,6 @@ CACHE_DIR = "/scratch/Datasets/Tether_Angle_Calculator/cache/"
 
 RANDOM_SEED = 3222023
 
-#DATASET = "/research/projects/m274639_Kellen/tether_angle_calculator/output/dataset.pkl"
 DATASET = None
 
 IMG_HEIGHT = 1024
